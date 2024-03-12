@@ -1,2 +1,2 @@
 # Coding
-Python studying
+Python studying with leetcode
